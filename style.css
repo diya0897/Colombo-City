@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: green;
+}
+
+img {
+    width: 300;
+}
+
+img:hover {
+    width: max-content;
+}
+
+h1 {
+    font-family: cursive;
+    color: red;
+    padding: 10px;
+}
+
+h2 {
+    font-family: 'Courier New', monospace;
+    padding: 5px 10px;
+}
+
+p {
+    padding: 0 15px 10px 15px;
+    line-height: 1.6;
+    color: yellow;
+}
+
+li {
+    color: bisque;
+}
+
+img {
+    margin: 15px;
+    border-radius: 8px;
+}
